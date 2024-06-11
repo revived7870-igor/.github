@@ -9,6 +9,8 @@
 - Sensors
 - Lights
 - NFC
+- GPS
+  
 ...idk what else to check for
 
 ## What's broken?
